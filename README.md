@@ -12,3 +12,6 @@ And I try to make projects that are varied and have something special between th
 
 ## Project Showcase
 [Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.</br></br>
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Melakoo)](https://git.io/streak-stats)</br>
