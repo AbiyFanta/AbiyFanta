@@ -20,8 +20,8 @@ And I try to make projects that are varied and have something special between th
 ## Experiences
 ### languages 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="50" height="50" />&nbsp;
 
 </div>
 <hr>
@@ -36,5 +36,5 @@ And I try to make projects that are varied and have something special between th
 
 ## software
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="50" height="50"/>&nbsp;
+<i class="devicon-unrealengine-original-wordmark"></i>&nbsp;
 </div>
