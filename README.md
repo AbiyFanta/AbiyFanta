@@ -16,3 +16,25 @@ And I try to make projects that are varied and have something special between th
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melakoo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)</br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Melakoo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</br>
+
+## Experiences
+### languages 
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />&nbsp;
+
+</div>
+<hr>
+
+### tools
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
+
+</div>
+<hr>
+
+## software
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="50" height="50"/>&nbsp;
+</div>
