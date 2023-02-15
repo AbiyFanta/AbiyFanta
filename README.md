@@ -4,10 +4,10 @@
   </a></br>
 </div>
 
-## about me
+## About me
 Open to job offers - best way to contact me is through [linkedin](https://www.linkedin.com/in/abiy-fanta-3bb287258/) </br></br>
-I am a 18 year old with great interesting in programs. </br>
-I have 3 years of experience with programming in C++ and C# </br>
+I am an 18 year old with gan interest in programming. </br>
+I have 3 years of experience with programming in C++. </br>
 And I try to make projects that are varied and have something special between them and can be used in the future. </br>
 
 ## Project Showcase
@@ -19,23 +19,22 @@ And I try to make projects that are varied and have something special between th
 <hr>
 
 ## Experiences
-### languages 
+### Languages 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="50" height="50" />&nbsp;
 
 </div>
 <hr>
 
-### tools
+### Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="50" height="50" />&nbsp;
 </div>
 <hr>
 
-## software
+## Software
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="50" height="50"/>&nbsp;
 </div>
