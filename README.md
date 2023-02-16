@@ -8,7 +8,7 @@
 Open to job offers - best way to contact me is through [linkedin](https://www.linkedin.com/in/abiy-fanta-3bb287258/) </br></br>
 I am an 18 year old with gan interest in programming. </br>
 I have 3 years of experience with programming in C++. </br>
-And I try to make projects that are varied and have something special between them and can be used in the future. </br>
+I sometimes make projects that are varied and have something special between them and can be used in the future. </br>
 
 ## Project Showcase
 [Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.</br></br>
