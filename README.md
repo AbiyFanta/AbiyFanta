@@ -36,5 +36,4 @@ I sometimes make projects that are varied and have something special between the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="50" height="50"/>&nbsp;
-  <i class="devicon-unrealengine-original-wordmark" width="50" height="50"></i>
 </div>
