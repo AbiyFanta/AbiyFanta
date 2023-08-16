@@ -13,11 +13,6 @@ I sometimes make projects that are varied and have something special between the
 ## Project Showcase
 [Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.</br></br>
 
-## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Melakoo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)</br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Melakoo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</br>
-<hr>
-
 ## Experiences
 ### Languages 
 <div>
