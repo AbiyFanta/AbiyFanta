@@ -11,7 +11,7 @@ I have 2 years of experience with programming in C++ and have experience with ot
 I sometimes make projects that are varied and have something special between them and can be used in the future. </br>
 
 ## Project Showcase
-[Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.</br></br>
+[Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.(work in progress, nothing uploaded yet)</br></br>
 
 [Flappy Bird Recreation](https://github.com/Melakoo/Flappy-Bird) [Python] - A simple recreation of the hit mobile game Flappy Bird using python.</br></br>
 
