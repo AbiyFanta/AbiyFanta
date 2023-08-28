@@ -1,9 +1,3 @@
- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abiy-fanta-3bb287258/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a></br>
-</div>
-
 ## About me
 Open to job offers - best way to contact me is through [linkedin](https://www.linkedin.com/in/abiy-fanta-3bb287258/) </br></br>
 I am an 18 year old with an interest in programming. </br>
@@ -32,5 +26,4 @@ I sometimes make projects that are varied and have something special between the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="50" height="50"/>&nbsp;
 </div>
