@@ -11,6 +11,7 @@ I sometimes make projects that are varied and have something special between the
 
 [Flappy Bird Recreation](https://github.com/Melakoo/Flappy-Bird) [Python] - A simple recreation of the hit mobile game Flappy Bird using python.</br></br>
 
+[Minesweeper](https://github.com/AbiyFanta/Minesweeper) [HTML] - Another simple recreation of a classic game. </br></br>
 ## Experiences
 ### Languages 
 <div>
