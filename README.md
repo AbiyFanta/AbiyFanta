@@ -4,7 +4,7 @@ Open to job offers - best way to contact me is through [linkedin](https://www.li
 I have 3 years of experience with programming in C++ and have experience with other languages such as Python and HTML/CSS/JS. </br>
 I sometimes make projects that are varied and have something special between them and can be used in the future. </br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=abiyfanta&show_icons=true&theme=dark">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=abiyfanta&show_icons=true&theme=dark"> -->
 
 ## Project Showcase
 [Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.(work in progress, nothing uploaded yet)</br></br>
