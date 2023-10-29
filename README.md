@@ -1,5 +1,5 @@
 ## About me
-Open to job offers - best way to contact me is through [linkedin](https://www.linkedin.com/in/abiy-fanta-3bb287258/) </br></br>
+Open to job offers - best way to contact me is through my email, abiyd2015@gmail.com. </br></br>
 
 I have 3 years of experience with programming in C++ and have experience with other languages such as Python and HTML/CSS/JS. </br>
 I sometimes make projects that are varied and have something special between them and can be used in the future. </br>
