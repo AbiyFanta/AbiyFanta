@@ -7,7 +7,7 @@ I sometimes make projects that are varied and have something special between the
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=abiyfanta&show_icons=true&theme=dark"> -->
 
 ## Project Showcase
-[Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.(work in progress, nothing uploaded yet)</br></br>
+[Abiy's Standard Library](https://github.com/Melakoo/Abiy-Cpp-Standard-Library) [C++] - A library I have created to keep all of my frequently used functions in a single area so don't have to copy and paste them constantly. It's a safer and more efficient solution instead of changing functions in all projects seperately.(WIP)</br></br>
 
 [Flappy Bird Recreation](https://github.com/Melakoo/Flappy-Bird) [Python] - A simple recreation of the hit mobile game Flappy Bird using python.</br></br>
 
