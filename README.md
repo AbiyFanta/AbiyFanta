@@ -16,6 +16,12 @@ I sometimes make projects that are varied and have something special between the
 [SpeedUp](https://github.com/AbiyFanta/SpeedUp) [HTML/CSS/JS-Bootstrap-Google Maps API] - A website calculating time saved by driving faster.
 
 ## Experiences
+
+<div>
+- SacHacks Hackathon - Sacramento, CA - 11/04/2023
+</div>
+<hr>
+
 ### Languages 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
